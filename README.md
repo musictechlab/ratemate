@@ -37,3 +37,11 @@ For debugging purposes, you can enable debugging mode:
 ```bash
 python ratemate someaudio.mp3 --debug
 ```
+
+
+<div align="center">
+  Bravelab. Digital Commerce Solution For The Music Industry<br>
+  <a href="https://www.bravelab.io/">Website</a>
+  <span> | </span>
+  <a href="https://linkedin.com/company/bravelab.io">LinkdedIn</a>
+</div>
