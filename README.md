@@ -38,6 +38,14 @@ For debugging purposes, you can enable debugging mode:
 python ratemate someaudio.mp3 --debug
 ```
 
+## Example output
+<div align="center" width="100px">
+ <picture>
+   <img alt="Ratemate" src="https://user-images.githubusercontent.com/4006792/214636328-8e4f83e8-66cb-4114-a3d8-473eb908b9c3.png">
+ </picture>
+</div>
+
+
 ## License
 
 MIT License
