@@ -68,7 +68,7 @@ SOFTWARE.
   <span> | </span>
   <a href="https://linkedin.com/company/bravelab.io">LinkdedIn</a><span> | </span>
   <a href="mailto:office@bravelab.io">Let's talk</a><br>
-  Crafted by [Bravelab.io](https://www.bravelab.io)
+  Crafted by https://www.bravelab.io
 </div>
 
 
