@@ -1,6 +1,12 @@
 # Ratemate
 
-Ratemate is an automated tool designed for the analysis of audio tracks. It proficiently extracts lyrics from the provided audio and subsequently conducts evaluations based on the PEGI (Pan European Game Information) scale.
+Ratemate is an automated proof of concept tool designed for the analysis of audio tracks. 
+It proficiently extracts lyrics from the provided audio and subsequently conducts evaluations based on the PEGI (Pan European Game Information) scale.
+
+## Prerequisites
+
+1. You have to create a new secret API key here: https://platform.openai.com/api-keys
+2. You need to have minumum $5 USD credits to use GPT API: https://platform.openai.com/account/billing/overview 
 
 ## Installation
 
