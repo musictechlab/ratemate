@@ -41,7 +41,7 @@ python ratemate someaudio.mp3 --debug
 ## Example output
 <div align="center" width="100px">
  <picture>
-   <img alt="Ratemate" src="https://user-images.githubusercontent.com/4006792/214636328-8e4f83e8-66cb-4114-a3d8-473eb908b9c3.png">
+   <img alt="Ratemate" src="https://github.com/bravelab/ratemate/blob/main/ratemate-example.png">
  </picture>
 </div>
 
