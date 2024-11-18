@@ -50,7 +50,7 @@ python ratemate someaudio.mp3 --debug
 
 MIT License
 
-Copyright (c) 2023 Brave Sp. z o.o
+Copyright (c) 2024 Brave Sp. z o.o
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -71,12 +71,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 <div align="center">
-  Bravelab. Digital Commerce Solution For The Music Industry<br>
+  MusicTech Lab - Rockstars Developers dedicated to the The Music Industry<br>
   <a href="https://www.bravelab.io/">Website</a>
   <span> | </span>
   <a href="https://linkedin.com/company/bravelab.io">LinkdedIn</a><span> | </span>
   <a href="mailto:office@bravelab.io">Let's talk</a><br>
-  Crafted by https://www.bravelab.io
+  Crafted by https://www.musictechlab.io
 </div>
 
 
